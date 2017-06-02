@@ -1,0 +1,21 @@
+{
+  "name": "npm-v5.0.1-package-lock-bug-demo",
+  "version": "1.0.0",
+  "description": "A demonstration of npm v5.0.1 package-lock inconsistencies",
+  "scripts": {
+    "test": "live-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm-v5.0.1-package-lock-bug-demo"
+  },
+  "author": {
+    "name": "Mike Bland",
+    "email": "mbland@acm.org",
+    "url": "https://mike-bland.com/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
