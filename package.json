@@ -1,13 +1,13 @@
 {
-  "name": "npm-v5.0.1-package-lock-bug-demo",
+  "name": "npm-v5-package-lock-bug-demo",
   "version": "1.0.0",
-  "description": "A demonstration of npm v5.0.1 package-lock inconsistencies",
+  "description": "npm v5.0.0 and v5.0.1 package-lock.json bug demo",
   "scripts": {
     "test": "live-server ."
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/npm-v5.0.1-package-lock-bug-demo"
+    "url": "https://github.com/npm-v5-package-lock-bug-demo"
   },
   "author": {
     "name": "Mike Bland",
