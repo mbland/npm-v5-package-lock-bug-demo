@@ -7,6 +7,8 @@ that `devDependency` packages whose own dependencies have a version spec of
 `latest` are not handled properly depending on the scenario. This demo uses
 [live-server][] to illustrate the phenomena.
 
+This appears germane to: https://github.com/npm/npm/issues/16839
+
 [live-server]:https://www.npmjs.com/package/live-server
 
 ### `package-lock-00.json`: clean build
